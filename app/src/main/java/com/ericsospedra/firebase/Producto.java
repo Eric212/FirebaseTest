@@ -6,8 +6,8 @@ public class Producto {
     private Categoria categoria;
     private float precio;
 
-//    public Producto() {
-//    }
+    public Producto() {
+   }
 
 
     public Producto(String nombre, String imagen, Categoria categoria, float precio) {

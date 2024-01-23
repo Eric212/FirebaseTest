@@ -4,8 +4,8 @@ public class Categoria {
     private String nombre;
     private String imagen;
 
-//    public Categoria() {
-//    }
+    public Categoria() {
+    }
 
     public Categoria(String nombre, String imagen) {
         this.nombre = nombre;
